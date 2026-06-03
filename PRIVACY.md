@@ -18,7 +18,7 @@ RevenueCat may collect anonymous purchase data.
 See RevenueCat's privacy policy: https://www.revenuecat.com/privacy
 
 ## Contact
-For questions or support: your@email.com
+For questions or support: smokestop.support@gmail.com
 
 ## Changes
 We may update this policy. Continued use of the app 
